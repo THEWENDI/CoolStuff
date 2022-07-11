@@ -10,7 +10,7 @@ Integrated Full Spring Authentication & Validation that allows users to login an
 Implemented a MySQL database for a quick and reliable data storages solution.
 <br>
 <br>
-Integrated YouTube API and Created an engaging, responsive front-end using JPSs and jQuery for a dynamic user experience.
+Integrated YouTube API and Created an engaging, responsive front-end using JPSs and jQuery for a dynamic user experience..
 
 
 ![HOP Dashboard](https://github.com/THEWENDI/CoolStuff/blob/3e30f6a59e04ea93c996fa0778080bbe47b8934d/coolstuff.png)
